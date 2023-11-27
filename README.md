@@ -8,7 +8,7 @@ Currently the radial menu accepts a table of option elements which can include a
 
 Example of how the radial menu looks:
 
-![Alt text](master/Example/example.png?raw=true "Radial Menu Example")
+![Alt text](Example/example.png?raw=true "Radial Menu Example")
 
 ## Installation
 
